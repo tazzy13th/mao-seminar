@@ -1,6 +1,10 @@
 # 真央ゼミWebサイト
 真央ゼミのWebサイト用リポジトリです。
 
+# メンバー
+hogehoge
+fugafuga
+
 # ディレクトリ構成
 ```
 seminar/
